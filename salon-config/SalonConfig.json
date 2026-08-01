@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "configVersion": 2026080104,
-  "versionName": "2026-08-01.4",
-  "createdAt": "2026-08-01T17:45:00+02:00",
+  "configVersion": 2026080105,
+  "versionName": "2026-08-01.5",
+  "createdAt": "2026-08-01T19:00:00+02:00",
   "minimumLauncherVersionCode": 150,
   "defaultCategoryId": "first",
   "categories": [
@@ -188,6 +188,18 @@
       "order": null,
       "icon": null
     },
+    "com.Oisoi.PaintingVr": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.Specoolar.LucentVR": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
     "com.PubTest.PubTest": {
       "categoryId": "games",
       "displayName": null,
@@ -207,7 +219,7 @@
       "icon": null
     },
     "com.SteelWool.HelpWanted2": {
-      "categoryId": "games",
+      "categoryId": "kids",
       "displayName": null,
       "order": null,
       "icon": null
