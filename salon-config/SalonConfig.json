@@ -1,0 +1,883 @@
+{
+  "schemaVersion": 1,
+  "configVersion": 2026080103,
+  "versionName": "2026-08-01.3",
+  "createdAt": "2026-08-01T17:30:00+02:00",
+  "minimumLauncherVersionCode": 150,
+  "defaultCategoryId": "first",
+  "categories": [
+    {
+      "id": "first",
+      "name": "1St",
+      "type": "standard",
+      "order": 1
+    },
+    {
+      "id": "games",
+      "name": "Games",
+      "type": "standard",
+      "order": 2
+    },
+    {
+      "id": "kids",
+      "name": "Kids",
+      "type": "standard",
+      "order": 3
+    },
+    {
+      "id": "multi",
+      "name": "Multi",
+      "type": "standard",
+      "order": 4
+    },
+    {
+      "id": "hidden",
+      "name": "Hidden",
+      "type": "hidden",
+      "order": null
+    }
+  ],
+  "apps": {
+    "com.AnotherAxiom.GorillaTag": {
+      "categoryId": "kids",
+      "displayName": "Gorilla Tag",
+      "order": null,
+      "icon": null
+    },
+    "com.Appnori.AllInOneSports": {
+      "categoryId": "multi",
+      "displayName": "5All-In-One Sports",
+      "order": null,
+      "icon": null
+    },
+    "com.ArcticWolves.RollercoasterLegends": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.ContinuumXR.UG": {
+      "categoryId": "kids",
+      "displayName": "UG",
+      "order": null,
+      "icon": null
+    },
+    "com.CortopiaStudios.Graves": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.CreativityAR.FixerUndercover": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.Doborog.CloneDroneVR": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.FireproofStudios.GhostTown": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.ForwardXP.nuke": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.HomeNetGames.WW1oculus": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.HomeNetGames.WW2VR": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.HomeNetGames.Warplanes3VR": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.ILMxLAB.VaderImmortal.ep1": {
+      "categoryId": "games",
+      "displayName": "5Vader Immortal: Episode I",
+      "order": null,
+      "icon": null
+    },
+    "com.ILMxLAB.VaderImmortal.ep2": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.ILMxLAB.VaderImmortal.ep3": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.Iconik.LittleNightmaresVR": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.JustDrive.JustDrive": {
+      "categoryId": "games",
+      "displayName": "Just Drive",
+      "order": null,
+      "icon": null
+    },
+    "com.LocoMotionDevs.Superfly": {
+      "categoryId": "kids",
+      "displayName": "Superfly",
+      "order": null,
+      "icon": null
+    },
+    "com.MightyEyes.Wanderer": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.NewFolderGames.IAmBird": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.NewFolderGames.IAmCat": {
+      "categoryId": "kids",
+      "displayName": "I Am Cat",
+      "order": null,
+      "icon": null
+    },
+    "com.Oculus.FirstContact": {
+      "categoryId": null,
+      "displayName": "2First Contact",
+      "order": null,
+      "icon": null
+    },
+    "com.NewFolderGames.IAmMonkey": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.OwlchemyLabs.CosmoniousHigh": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.Patient8Games.Memoreum": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.PubTest.PubTest": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.RaptorsGames.RaceForFun": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.RuneSkovboJohansen.EyeOfTheTemple": {
+      "categoryId": "games",
+      "displayName": "6Eye of the Temple",
+      "order": null,
+      "icon": null
+    },
+    "com.SteelWool.HelpWanted2": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.SteelWoolGames.fnafhw": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.StressLevelZero.BONELAB": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.Sutur.DescentAlps": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.ToastVR.RichiesPlankExperience": {
+      "categoryId": "first",
+      "displayName": "3Richie's Plank Experience",
+      "order": null,
+      "icon": null
+    },
+    "com.VerticalRobot.RedMatter2": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.ViteiBackroom.Powder": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.Warpfrog.BladeAndSorcery": {
+      "categoryId": "games",
+      "displayName": "Blade & Sorcery: Nomad",
+      "order": null,
+      "icon": null
+    },
+    "com.WenklyStudio.ElvenAssassin": {
+      "categoryId": "multi",
+      "displayName": "1Elven Assassin",
+      "order": null,
+      "icon": null
+    },
+    "com.WenklyStudio.PrivateProperty": {
+      "categoryId": "multi",
+      "displayName": "4Private Property",
+      "order": null,
+      "icon": null
+    },
+    "com.XRGames.ZombielandVR": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.XrealGames.Zc15": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.XrealGames.ZcReloaded": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.ZigaGames.SkidooLegendsVR": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.android.documentsui": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.android.settings": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.bazookastudio.chainedescape": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.beatgames.beatpaber": {
+      "categoryId": "games",
+      "displayName": "1Beat Saber",
+      "order": null,
+      "icon": null
+    },
+    "com.beatgames.beatsaber": {
+      "categoryId": "games",
+      "displayName": "1Beat Saber",
+      "order": null,
+      "icon": null
+    },
+    "com.cloudheadgames.pistolwhip": {
+      "categoryId": "games",
+      "displayName": "3Pistol Whip",
+      "order": null,
+      "icon": null
+    },
+    "com.crytek.climb2": {
+      "categoryId": "games",
+      "displayName": "7GameClimb",
+      "order": null,
+      "icon": null
+    },
+    "com.dreamdev.deathhorizon.quest": {
+      "categoryId": "multi",
+      "displayName": "6Death Horizon",
+      "order": null,
+      "icon": null
+    },
+    "com.facebook.arvr.quillplayer": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.facebook.horizon": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.facebook.orca": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.fallen.manorquest": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.fasttravelgames.solero": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.forcefieldxr.coastercombatquest": {
+      "categoryId": "kids",
+      "displayName": "5Coaster Combat",
+      "order": null,
+      "icon": null
+    },
+    "com.forwardxp.PDTAMR": {
+      "categoryId": "kids",
+      "displayName": "Please, Don't Touch Anything: House Broken",
+      "order": null,
+      "icon": null
+    },
+    "com.freelives.gorn": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.google.android.apps.youtube.vr.oculus": {
+      "categoryId": "first",
+      "displayName": "4YouTube VR",
+      "order": null,
+      "icon": null
+    },
+    "com.gritGames.Nope": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.gunraiders": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.halfbrick.fruitninjavr": {
+      "categoryId": "first",
+      "displayName": "Fruit Ninja",
+      "order": null,
+      "icon": null
+    },
+    "com.holonautic.HandPhysicsLab": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.ivanovichgames.touringkartsPRO": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.kluge.SynthRiders": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.makereal.LocoDojoQuest": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.meta.curio.ruler": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.meta.curio.toybox": {
+      "categoryId": "hidden",
+      "displayName": "4First Encounters",
+      "order": null,
+      "icon": null
+    },
+    "com.meta.handseducationmodule": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.mikorigames.firstpersontennis": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.mydearest.chainedescape": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.MiramarSetupRetail": {
+      "categoryId": "first",
+      "displayName": "1First Steps",
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.MontereySetup": {
+      "categoryId": null,
+      "displayName": "1First Steps",
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.assistant": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.browser": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.dab2": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.explore": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.extrapermissions": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.facebook": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.horizonmediaplayer": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.igvr": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.mobile_mrc_setup": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.os.chargecontrol": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.os.clearactivity": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.os.voidactivity": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.remotedesktop": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.samples.firsthand": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.shellenv": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.systemactivities": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.systempermissions": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.tv": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.vrprivacycheckup": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.vrshell": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.oculus.xrstreamingclient": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.onehamsa.underdogs": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.owlchemylabs.jobsimulator": {
+      "categoryId": "kids",
+      "displayName": "1Job Simulator",
+      "order": null,
+      "icon": null
+    },
+    "com.owlchemylabs.vacationsimulator": {
+      "categoryId": "kids",
+      "displayName": "Vacation Simulator",
+      "order": null,
+      "icon": null
+    },
+    "com.owlstudiogetme.FreddyVR": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.parkline.wander": {
+      "categoryId": "first",
+      "displayName": "5Wander",
+      "order": null,
+      "icon": null
+    },
+    "com.playful.LuckysTale": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.resolutiongames.abvriop.santacruz": {
+      "categoryId": "first",
+      "displayName": "Angry Birds VR",
+      "order": null,
+      "icon": null
+    },
+    "com.resolutiongames.demeo": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.resolutiongames.demeopvp": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.resolutiongames.ignis": {
+      "categoryId": "multi",
+      "displayName": "3Blaston",
+      "order": null,
+      "icon": null
+    },
+    "com.resolutiongames.jade": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.roblox.client": {
+      "categoryId": "kids",
+      "displayName": "Roblox",
+      "order": null,
+      "icon": null
+    },
+    "com.saritasa.snowdefence": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.schellgames.ieytd2": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.schellgames.ieytd3": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.schellgames.ieytdquest": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.smtrandom.toytrain": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.sumalab.CrisisBrigade2reloaded": {
+      "categoryId": "multi",
+      "displayName": "2Crisis Brigade 2",
+      "order": null,
+      "icon": null
+    },
+    "com.survios.Creed": {
+      "categoryId": "games",
+      "displayName": "2Creed: Rise to Glory",
+      "order": null,
+      "icon": null
+    },
+    "com.thebinarymill.intoblack": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.themunky.drunknbarfightQuest": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.thunderful.legobricktales": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.vertigogames.azs1hd": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.vertigogames.azs2": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.vertigogames.azsq": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.veticia.piLauncherNext": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "com.vr.puzzle.horror.survival.escape": {
+      "categoryId": "kids",
+      "displayName": "Five Nights: No Escape",
+      "order": null,
+      "icon": null
+    },
+    "com.vrchat.oculus.quest": {
+      "categoryId": "multi",
+      "displayName": "VRChat",
+      "order": null,
+      "icon": null
+    },
+    "com.whatsapp": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "games.b4t.epicrollercoasters.oculus": {
+      "categoryId": "kids",
+      "displayName": "6Epic Roller Coasters",
+      "order": null,
+      "icon": null
+    },
+    "games.hypervr.hairandbeauty": {
+      "categoryId": "kids",
+      "displayName": "4Shave & Stuff",
+      "order": null,
+      "icon": null
+    },
+    "games.hypervr.petsnstuff": {
+      "categoryId": "kids",
+      "displayName": "3Pets & Stuff",
+      "order": null,
+      "icon": null
+    },
+    "gg.trs.fyf2": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "mr.com.Oisoi.PaintingVr": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "mr.com.dreamdev.deathhorizon.quest": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "mr.com.forwardxp.PDTAMR": {
+      "categoryId": "games",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "mr.com.mythicalcitygames.snowfortress2": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "mr.com.overlay.figmin.prod": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "mr.com.resolutiongames.abvriop.santacruz": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "mr.com.tvb.cubism": {
+      "categoryId": "first",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "quest.eleven.forfunlabs": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": null,
+      "icon": null
+    },
+    "studio.NewFolderGames.IAmSecurity": {
+      "categoryId": "kids",
+      "displayName": "I Am Security",
+      "order": null,
+      "icon": null
+    },
+    "studio.NewFolderGames.TitansClinic": {
+      "categoryId": "kids",
+      "displayName": "2Titans Clinic",
+      "order": null,
+      "icon": null
+    },
+    "unity.SUPERHOT_Team.SUPERHOT_VR_QA": {
+      "categoryId": "games",
+      "displayName": "4SUPERHOT VR",
+      "order": null,
+      "icon": null
+    }
+  },
+  "appearance": {
+    "showNames": true,
+    "backgroundOpacity": 7,
+    "iconScale": 2,
+    "iconStyle": 1,
+    "theme": {
+      "type": "built_in",
+      "value": 4
+    }
+  },
+  "behavior": {
+    "autorun": true
+  }
+}
