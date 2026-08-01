@@ -1,8 +1,8 @@
 {
-  "versionCode": 151,
-  "versionName": "1.5.1-test",
-  "apkUrl": "https://github.com/niktn10/nlauncher-updates/releases/download/v1.5.1-test-debug/nLauncher-1.5.1-test-debug.apk",
-  "sha256": "2a110bf4ac913f134e03a74d99abef5b1cbce00582d84eff65d48289c09f14e8",
-  "size": 14058964,
+  "versionCode": 140,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/niktn10/nlauncher-updates/releases/download/v1.4/nLauncher-1.4.apk",
+  "sha256": "d22b0859afeafbb7744152391a44bcb0d6be80ecffcb2b166a8cd9b58cb93917",
+  "size": 7052662,
   "required": false
 }
