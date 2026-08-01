@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "configVersion": 2026080103,
-  "versionName": "2026-08-01.3",
-  "createdAt": "2026-08-01T17:30:00+02:00",
+  "configVersion": 2026080104,
+  "versionName": "2026-08-01.4",
+  "createdAt": "2026-08-01T17:45:00+02:00",
   "minimumLauncherVersionCode": 150,
   "defaultCategoryId": "first",
   "categories": [
