@@ -1,8 +1,8 @@
 {
-  "versionCode": 180,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/niktn10/nlauncher-updates/releases/download/v1.8/nLauncher_1.8.apk",
-  "sha256": "bbcfdd5eb8f9234a7eceb749332e812da8b4166c5551b088cac93592248bca63",
-  "size": 8464918,
+  "versionCode": 190,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/niktn10/nlauncher-updates/releases/download/v1.9/nLauncher_1.9.apk",
+  "sha256": "7742bd1e2efae0acfcb737534ed5e9ca7bf2d783db8b35c95a60262d24dc2455",
+  "size": 8625078,
   "required": false
 }

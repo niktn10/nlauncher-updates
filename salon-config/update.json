@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026081604,
-  "versionName": "2026-08-16.4",
+  "configVersion": 2026082501,
+  "versionName": "2026-08-25.1",
   "configUrl": "https://raw.githubusercontent.com/niktn10/nlauncher-updates/main/salon-config/SalonConfig.json",
-  "sha256": "59d97d3990231944a0bab34b15b62b858eb184b934187e3824f9ecf6b8252832",
-  "size": 23615
+  "sha256": "36db6299ac36cb265ecd65990c2fa2736999812605923a363ea59edeaee21e9a",
+  "size": 23720
 }

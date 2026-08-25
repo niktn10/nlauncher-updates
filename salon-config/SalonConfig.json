@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026081604,
-  "versionName": "2026-08-16.4",
-  "createdAt": "2026-08-16T15:44:08+02:00",
-  "minimumLauncherVersionCode": 180,
+  "configVersion": 2026082501,
+  "versionName": "2026-08-25.1",
+  "createdAt": "2026-08-25T14:05:13.560897+02:00",
+  "minimumLauncherVersionCode": 190,
   "defaultCategoryId": "first",
   "categories": [
     {
@@ -48,7 +48,7 @@
     },
     "com.Appnori.AllInOneSports": {
       "categoryId": "multi",
-      "displayName": "All-In-One Sports",
+      "displayName": "All In One Sports",
       "order": 5,
       "icon": {
         "source": "meta"
@@ -65,7 +65,7 @@
     "com.AstroFoxStudios.OctoKid": {
       "categoryId": null,
       "displayName": null,
-      "order": 24,
+      "order": 23,
       "icon": {
         "source": "meta"
       }
@@ -89,7 +89,7 @@
     "com.CortopiaStudios.draxPrototype": {
       "categoryId": null,
       "displayName": "Teenage Mutant Ninja",
-      "order": 20,
+      "order": 19,
       "icon": {
         "source": "meta"
       }
@@ -160,7 +160,7 @@
     },
     "com.ILMxLAB.VaderImmortal.ep1": {
       "categoryId": "games",
-      "displayName": "Vader Immortal: Ep 1",
+      "displayName": "Vader Immortal",
       "order": 5,
       "icon": {
         "source": "meta"
@@ -248,7 +248,7 @@
     },
     "com.Oisoi.PaintingVr": {
       "categoryId": "first",
-      "displayName": null,
+      "displayName": "Painting VR",
       "order": 13,
       "icon": {
         "source": "meta"
@@ -297,7 +297,7 @@
     "com.SeeReal.EscapeNought": {
       "categoryId": null,
       "displayName": null,
-      "order": 23,
+      "order": 22,
       "icon": {
         "source": "meta"
       }
@@ -305,7 +305,7 @@
     "com.SloppyStudios.NewtonsPlayground": {
       "categoryId": null,
       "displayName": null,
-      "order": 26,
+      "order": 25,
       "icon": {
         "source": "meta"
       }
@@ -320,7 +320,7 @@
     },
     "com.SteelWool.HelpWanted2": {
       "categoryId": "kids",
-      "displayName": null,
+      "displayName": "Five Nights at Freddy's: Help Wanted 2",
       "order": 62,
       "icon": {
         "source": "meta"
@@ -328,7 +328,7 @@
     },
     "com.SteelWoolGames.fnafhw": {
       "categoryId": "kids",
-      "displayName": null,
+      "displayName": "Five Nights at Freddy's: Help Wanted",
       "order": 61,
       "icon": {
         "source": "meta"
@@ -344,8 +344,8 @@
     },
     "com.TRC.Atlas": {
       "categoryId": null,
-      "displayName": null,
-      "order": 21,
+      "displayName": "The Atlas Mystery",
+      "order": 20,
       "icon": {
         "source": "meta"
       }
@@ -353,7 +353,7 @@
     "com.TacticalNounours.QuantumVoid": {
       "categoryId": null,
       "displayName": null,
-      "order": 28,
+      "order": 27,
       "icon": {
         "source": "meta"
       }
@@ -361,14 +361,14 @@
     "com.ThreeDAR.PaperBirdsQuest": {
       "categoryId": null,
       "displayName": null,
-      "order": 27,
+      "order": 26,
       "icon": {
         "source": "meta"
       }
     },
     "com.ToastVR.RichiesPlankExperience": {
       "categoryId": "first",
-      "displayName": "Richie's Plank Experience",
+      "displayName": "Richie's Plank",
       "order": 3,
       "icon": {
         "source": "meta"
@@ -433,7 +433,7 @@
     "com.anagan.qgo": {
       "categoryId": null,
       "displayName": null,
-      "order": 29,
+      "order": 28,
       "icon": {
         "source": "meta"
       }
@@ -608,8 +608,8 @@
     },
     "com.manerai.taxiDriverVR": {
       "categoryId": null,
-      "displayName": null,
-      "order": 19,
+      "displayName": "Taxi Driver",
+      "order": 18,
       "icon": {
         "source": "meta"
       }
@@ -776,7 +776,7 @@
     },
     "com.owlstudiogetme.FreddyVR": {
       "categoryId": "kids",
-      "displayName": null,
+      "displayName": "Freddy VR",
       "order": 74,
       "icon": {
         "source": "meta"
@@ -800,7 +800,7 @@
     },
     "com.resolutiongames.abvriop.santacruz": {
       "categoryId": "first",
-      "displayName": "Angry Birds VR",
+      "displayName": "Angry Birds",
       "order": 8,
       "icon": {
         "source": "meta"
@@ -881,7 +881,7 @@
     "com.singerinteractive.pq": {
       "categoryId": null,
       "displayName": "The Pirate Queen",
-      "order": 22,
+      "order": 21,
       "icon": {
         "source": "meta"
       }
@@ -936,8 +936,8 @@
     },
     "com.valvesoftware.steamlinkvr": {
       "categoryId": null,
-      "displayName": null,
-      "order": 18,
+      "displayName": "Steam Link",
+      "order": 29,
       "icon": {
         "source": "meta"
       }
@@ -1049,7 +1049,7 @@
     "mr.com.ivanovichgames.motionsoccer": {
       "categoryId": null,
       "displayName": null,
-      "order": 25,
+      "order": 24,
       "icon": {
         "source": "meta"
       }
