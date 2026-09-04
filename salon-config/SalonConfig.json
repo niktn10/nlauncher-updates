@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026082501,
-  "versionName": "2026-08-25.1",
-  "createdAt": "2026-08-25T14:05:13.560897+02:00",
+  "configVersion": 2026090401,
+  "versionName": "2026-09-04.1",
+  "createdAt": "2026-09-04T11:23:44Z",
   "minimumLauncherVersionCode": 190,
   "defaultCategoryId": "first",
   "categories": [
@@ -727,6 +727,14 @@
       }
     },
     "com.oculus.igvr": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": null,
+      "icon": {
+        "source": "meta"
+      }
+    },
+    "com.oculus.mobile_mrc_setup": {
       "categoryId": "hidden",
       "displayName": null,
       "order": null,
