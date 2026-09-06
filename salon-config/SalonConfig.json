@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026090401,
-  "versionName": "2026-09-04.1",
-  "createdAt": "2026-09-04T11:23:44Z",
+  "configVersion": 2026090601,
+  "versionName": "2026-09-06.1",
+  "createdAt": "2026-09-06T17:22:28.635920+02:00",
   "minimumLauncherVersionCode": 190,
   "defaultCategoryId": "first",
   "categories": [
@@ -217,7 +217,7 @@
     "com.NewFolderGames.IAmBird": {
       "categoryId": "kids",
       "displayName": null,
-      "order": 63,
+      "order": 62,
       "icon": {
         "source": "meta"
       }
@@ -225,7 +225,7 @@
     "com.NewFolderGames.IAmCat": {
       "categoryId": "kids",
       "displayName": "I Am Cat",
-      "order": 64,
+      "order": 63,
       "icon": {
         "source": "meta"
       }
@@ -233,7 +233,7 @@
     "com.NewFolderGames.IAmMonkey": {
       "categoryId": "kids",
       "displayName": null,
-      "order": 65,
+      "order": 64,
       "icon": {
         "source": "meta"
       }
@@ -321,7 +321,7 @@
     "com.SteelWool.HelpWanted2": {
       "categoryId": "kids",
       "displayName": "Five Nights at Freddy's: Help Wanted 2",
-      "order": 62,
+      "order": 61,
       "icon": {
         "source": "meta"
       }
@@ -329,7 +329,7 @@
     "com.SteelWoolGames.fnafhw": {
       "categoryId": "kids",
       "displayName": "Five Nights at Freddy's: Help Wanted",
-      "order": 61,
+      "order": 60,
       "icon": {
         "source": "meta"
       }
@@ -529,7 +529,7 @@
     "com.forcefieldxr.coastercombatquest": {
       "categoryId": "kids",
       "displayName": "Coaster Combat",
-      "order": 60,
+      "order": 18,
       "icon": {
         "source": "meta"
       }
@@ -607,9 +607,9 @@
       }
     },
     "com.manerai.taxiDriverVR": {
-      "categoryId": null,
+      "categoryId": "kids",
       "displayName": "Taxi Driver",
-      "order": 18,
+      "order": 66,
       "icon": {
         "source": "meta"
       }
@@ -1081,7 +1081,7 @@
     "studio.NewFolderGames.IAmSecurity": {
       "categoryId": "kids",
       "displayName": "I Am Security",
-      "order": 66,
+      "order": 65,
       "icon": {
         "source": "meta"
       }
