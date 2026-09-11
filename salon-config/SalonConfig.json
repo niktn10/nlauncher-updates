@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026090601,
-  "versionName": "2026-09-06.1",
-  "createdAt": "2026-09-06T17:22:28.635920+02:00",
+  "configVersion": 2026091101,
+  "versionName": "2026-09-11.1",
+  "createdAt": "2026-09-11T17:14:16.314205+02:00",
   "minimumLauncherVersionCode": 190,
   "defaultCategoryId": "first",
   "categories": [
@@ -313,14 +313,14 @@
     "com.Specoolar.LucentVR": {
       "categoryId": "first",
       "displayName": "Lucent VR",
-      "order": 12,
+      "order": 14,
       "icon": {
         "source": "meta"
       }
     },
     "com.SteelWool.HelpWanted2": {
       "categoryId": "kids",
-      "displayName": "Five Nights at Freddy's: Help Wanted 2",
+      "displayName": "FNaF: Help Wanted 2",
       "order": 61,
       "icon": {
         "source": "meta"
@@ -328,7 +328,7 @@
     },
     "com.SteelWoolGames.fnafhw": {
       "categoryId": "kids",
-      "displayName": "Five Nights at Freddy's: Help Wanted",
+      "displayName": "FNaF: Help Wanted",
       "order": 60,
       "icon": {
         "source": "meta"
@@ -385,7 +385,7 @@
     "com.Warpfrog.BladeAndSorcery": {
       "categoryId": "games",
       "displayName": "Blade & Sorcery",
-      "order": 31,
+      "order": 34,
       "icon": {
         "source": "meta"
       }
@@ -401,7 +401,7 @@
     "com.WenklyStudio.PrivateProperty": {
       "categoryId": "multi",
       "displayName": "Private Property",
-      "order": 4,
+      "order": 2,
       "icon": {
         "source": "meta"
       }
@@ -833,7 +833,7 @@
     "com.resolutiongames.ignis": {
       "categoryId": "multi",
       "displayName": "Blaston",
-      "order": 3,
+      "order": 4,
       "icon": {
         "source": "meta"
       }
@@ -897,7 +897,7 @@
     "com.smtrandom.toytrain": {
       "categoryId": "first",
       "displayName": null,
-      "order": 14,
+      "order": 12,
       "icon": {
         "source": "meta"
       }
@@ -905,7 +905,7 @@
     "com.sumalab.CrisisBrigade2reloaded": {
       "categoryId": "multi",
       "displayName": "Crisis Brigade 2",
-      "order": 2,
+      "order": 3,
       "icon": {
         "source": "meta"
       }
@@ -1025,7 +1025,7 @@
     "gg.trs.fyf2": {
       "categoryId": "games",
       "displayName": null,
-      "order": 34,
+      "order": 31,
       "icon": {
         "source": "meta"
       }
