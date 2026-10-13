@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026091101,
-  "versionName": "2026-09-11.1",
-  "createdAt": "2026-09-11T17:14:16.314205+02:00",
+  "configVersion": 2026101301,
+  "versionName": "2026-10-13.1",
+  "createdAt": "2026-10-13T17:02:26.973498+02:00",
   "minimumLauncherVersionCode": 190,
   "defaultCategoryId": "first",
   "categories": [
@@ -97,7 +97,7 @@
     "com.CreativityAR.FixerUndercover": {
       "categoryId": "games",
       "displayName": null,
-      "order": 54,
+      "order": 55,
       "icon": {
         "source": "meta"
       }
@@ -105,7 +105,7 @@
     "com.Doborog.CloneDroneVR": {
       "categoryId": "games",
       "displayName": null,
-      "order": 53,
+      "order": 54,
       "icon": {
         "source": "meta"
       }
@@ -113,7 +113,7 @@
     "com.FireproofStudios.GhostTown": {
       "categoryId": "games",
       "displayName": null,
-      "order": 55,
+      "order": 56,
       "icon": {
         "source": "meta"
       }
@@ -185,7 +185,7 @@
     "com.Iconik.LittleNightmaresVR": {
       "categoryId": "games",
       "displayName": null,
-      "order": 56,
+      "order": 57,
       "icon": {
         "source": "meta"
       }
@@ -209,7 +209,7 @@
     "com.MightyEyes.Wanderer": {
       "categoryId": "games",
       "displayName": null,
-      "order": 59,
+      "order": 60,
       "icon": {
         "source": "meta"
       }
@@ -265,7 +265,7 @@
     "com.Patient8Games.Memoreum": {
       "categoryId": "games",
       "displayName": null,
-      "order": 57,
+      "order": 58,
       "icon": {
         "source": "meta"
       }
@@ -303,9 +303,9 @@
       }
     },
     "com.SloppyStudios.NewtonsPlayground": {
-      "categoryId": null,
+      "categoryId": "games",
       "displayName": null,
-      "order": 25,
+      "order": 53,
       "icon": {
         "source": "meta"
       }
@@ -377,7 +377,7 @@
     "com.VerticalRobot.RedMatter2": {
       "categoryId": "games",
       "displayName": null,
-      "order": 58,
+      "order": 59,
       "icon": {
         "source": "meta"
       }
@@ -1098,6 +1098,30 @@
       "categoryId": "games",
       "displayName": "Superhot VR",
       "order": 4,
+      "icon": {
+        "source": "meta"
+      }
+    },
+    "com.MightyCoconut.WalkaboutMiniGolf": {
+      "categoryId": "multi",
+      "displayName": null,
+      "order": 97,
+      "icon": {
+        "source": "meta"
+      }
+    },
+    "com.TellurionMobile.RealmCraft": {
+      "categoryId": "kids",
+      "displayName": null,
+      "order": 87,
+      "icon": {
+        "source": "meta"
+      }
+    },
+    "quest.side.vr": {
+      "categoryId": "hidden",
+      "displayName": null,
+      "order": 96,
       "icon": {
         "source": "meta"
       }
