@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026101301,
-  "versionName": "2026-10-13.1",
-  "createdAt": "2026-10-13T17:02:26.973498+02:00",
+  "configVersion": 2026102401,
+  "versionName": "2026-10-24.1",
+  "createdAt": "2026-10-24T08:41:18.631551+02:00",
   "minimumLauncherVersionCode": 190,
   "defaultCategoryId": "first",
   "categories": [
@@ -41,7 +41,7 @@
     "com.AnotherAxiom.GorillaTag": {
       "categoryId": "kids",
       "displayName": "Gorilla Tag",
-      "order": 72,
+      "order": 73,
       "icon": {
         "source": "meta"
       }
@@ -57,7 +57,7 @@
     "com.ArcticWolves.RollercoasterLegends": {
       "categoryId": "kids",
       "displayName": "RollerCoasterLegends",
-      "order": 68,
+      "order": 69,
       "icon": {
         "source": "meta"
       }
@@ -73,7 +73,7 @@
     "com.ContinuumXR.UG": {
       "categoryId": "kids",
       "displayName": "UG (Gorilla Tag)",
-      "order": 5,
+      "order": 6,
       "icon": {
         "source": "meta"
       }
@@ -121,7 +121,7 @@
     "com.ForwardXP.nuke": {
       "categoryId": "kids",
       "displayName": null,
-      "order": 70,
+      "order": 71,
       "icon": {
         "source": "meta"
       }
@@ -201,7 +201,7 @@
     "com.LocoMotionDevs.Superfly": {
       "categoryId": "kids",
       "displayName": "Superfly",
-      "order": 67,
+      "order": 68,
       "icon": {
         "source": "meta"
       }
@@ -217,7 +217,7 @@
     "com.NewFolderGames.IAmBird": {
       "categoryId": "kids",
       "displayName": null,
-      "order": 62,
+      "order": 63,
       "icon": {
         "source": "meta"
       }
@@ -225,7 +225,7 @@
     "com.NewFolderGames.IAmCat": {
       "categoryId": "kids",
       "displayName": "I Am Cat",
-      "order": 63,
+      "order": 64,
       "icon": {
         "source": "meta"
       }
@@ -233,7 +233,7 @@
     "com.NewFolderGames.IAmMonkey": {
       "categoryId": "kids",
       "displayName": null,
-      "order": 64,
+      "order": 65,
       "icon": {
         "source": "meta"
       }
@@ -321,7 +321,7 @@
     "com.SteelWool.HelpWanted2": {
       "categoryId": "kids",
       "displayName": "FNaF: Help Wanted 2",
-      "order": 61,
+      "order": 62,
       "icon": {
         "source": "meta"
       }
@@ -329,7 +329,7 @@
     "com.SteelWoolGames.fnafhw": {
       "categoryId": "kids",
       "displayName": "FNaF: Help Wanted",
-      "order": 60,
+      "order": 61,
       "icon": {
         "source": "meta"
       }
@@ -529,7 +529,7 @@
     "com.forcefieldxr.coastercombatquest": {
       "categoryId": "kids",
       "displayName": "Coaster Combat",
-      "order": 18,
+      "order": 19,
       "icon": {
         "source": "meta"
       }
@@ -537,7 +537,7 @@
     "com.forwardxp.PDTAMR": {
       "categoryId": "kids",
       "displayName": "Please, Don't Touch Anything: House Broken",
-      "order": 71,
+      "order": 72,
       "icon": {
         "source": "meta"
       }
@@ -572,6 +572,14 @@
       "order": 9,
       "icon": {
         "source": "meta"
+      }
+    },
+    "com.dev.halfbrick.fruitninjavr": {
+      "categoryId": "first",
+      "displayName": "Fruit Ninja",
+      "order": 10,
+      "icon": {
+        "source": "managed"
       }
     },
     "com.halfbrick.fruitninjavr2": {
@@ -609,7 +617,7 @@
     "com.manerai.taxiDriverVR": {
       "categoryId": "kids",
       "displayName": "Taxi Driver",
-      "order": 66,
+      "order": 67,
       "icon": {
         "source": "meta"
       }
@@ -774,10 +782,18 @@
         "source": "meta"
       }
     },
+    "com.dev.owlchemylabs.jobsimulator": {
+      "categoryId": "kids",
+      "displayName": "Job Simulator",
+      "order": 2,
+      "icon": {
+        "source": "managed"
+      }
+    },
     "com.owlchemylabs.vacationsimulator": {
       "categoryId": "kids",
       "displayName": "Vacation Simulator",
-      "order": 73,
+      "order": 74,
       "icon": {
         "source": "meta"
       }
@@ -785,7 +801,7 @@
     "com.owlstudiogetme.FreddyVR": {
       "categoryId": "kids",
       "displayName": "Freddy VR",
-      "order": 74,
+      "order": 75,
       "icon": {
         "source": "meta"
       }
@@ -857,7 +873,7 @@
     "com.roblox.client": {
       "categoryId": "kids",
       "displayName": "Roblox",
-      "order": 69,
+      "order": 70,
       "icon": {
         "source": "meta"
       }
@@ -1001,7 +1017,7 @@
     "games.b4t.epicrollercoasters.oculus": {
       "categoryId": "kids",
       "displayName": "Epic Roller Coasters",
-      "order": 6,
+      "order": 7,
       "icon": {
         "source": "meta"
       }
@@ -1009,7 +1025,7 @@
     "games.hypervr.hairandbeauty": {
       "categoryId": "kids",
       "displayName": "Shave & Stuff",
-      "order": 4,
+      "order": 5,
       "icon": {
         "source": "meta"
       }
@@ -1017,7 +1033,7 @@
     "games.hypervr.petsnstuff": {
       "categoryId": "kids",
       "displayName": "Pets & Stuff",
-      "order": 3,
+      "order": 4,
       "icon": {
         "source": "meta"
       }
@@ -1081,7 +1097,7 @@
     "studio.NewFolderGames.IAmSecurity": {
       "categoryId": "kids",
       "displayName": "I Am Security",
-      "order": 65,
+      "order": 66,
       "icon": {
         "source": "meta"
       }
@@ -1089,7 +1105,7 @@
     "studio.NewFolderGames.TitansClinic": {
       "categoryId": "kids",
       "displayName": "Titans Clinic",
-      "order": 2,
+      "order": 3,
       "icon": {
         "source": "meta"
       }
@@ -1113,7 +1129,7 @@
     "com.TellurionMobile.RealmCraft": {
       "categoryId": "kids",
       "displayName": null,
-      "order": 87,
+      "order": 88,
       "icon": {
         "source": "meta"
       }
