@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026102402,
-  "versionName": "2026-10-24.2",
-  "createdAt": "2026-10-24T09:16:19.349520+02:00",
+  "configVersion": 2026102403,
+  "versionName": "2026-10-24.3",
+  "createdAt": "2026-10-24T10:21:12.845668+02:00",
   "minimumLauncherVersionCode": 190,
   "defaultCategoryId": "first",
   "categories": [
@@ -371,7 +371,7 @@
       "displayName": "Richie's Plank",
       "order": 3,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.VerticalRobot.RedMatter2": {
@@ -667,7 +667,7 @@
       "displayName": "First Steps",
       "order": 1,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.MontereySetup": {
