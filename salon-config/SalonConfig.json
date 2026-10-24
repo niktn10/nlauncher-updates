@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026102401,
-  "versionName": "2026-10-24.1",
-  "createdAt": "2026-10-24T08:41:18.631551+02:00",
+  "configVersion": 2026102402,
+  "versionName": "2026-10-24.2",
+  "createdAt": "2026-10-24T09:16:19.349520+02:00",
   "minimumLauncherVersionCode": 190,
   "defaultCategoryId": "first",
   "categories": [
@@ -395,7 +395,7 @@
       "displayName": "Elven Assassin",
       "order": 1,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.WenklyStudio.PrivateProperty": {
@@ -403,7 +403,7 @@
       "displayName": "Private Property",
       "order": 2,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.XRGames.ZombielandVR": {
