@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026102403,
-  "versionName": "2026-10-24.3",
-  "createdAt": "2026-10-24T10:21:12.845668+02:00",
+  "configVersion": 2026102601,
+  "versionName": "2026-10-26.1",
+  "createdAt": "2026-10-26T20:25:34.273832+01:00",
   "minimumLauncherVersionCode": 190,
   "defaultCategoryId": "first",
   "categories": [
@@ -97,7 +97,7 @@
     "com.CreativityAR.FixerUndercover": {
       "categoryId": "games",
       "displayName": null,
-      "order": 55,
+      "order": 56,
       "icon": {
         "source": "meta"
       }
@@ -105,7 +105,7 @@
     "com.Doborog.CloneDroneVR": {
       "categoryId": "games",
       "displayName": null,
-      "order": 54,
+      "order": 55,
       "icon": {
         "source": "meta"
       }
@@ -113,7 +113,7 @@
     "com.FireproofStudios.GhostTown": {
       "categoryId": "games",
       "displayName": null,
-      "order": 56,
+      "order": 57,
       "icon": {
         "source": "meta"
       }
@@ -137,7 +137,7 @@
     "com.HomeNetGames.WW1oculus": {
       "categoryId": "games",
       "displayName": "Warplanes: WW1",
-      "order": 45,
+      "order": 46,
       "icon": {
         "source": "meta"
       }
@@ -145,7 +145,7 @@
     "com.HomeNetGames.WW2VR": {
       "categoryId": "games",
       "displayName": null,
-      "order": 47,
+      "order": 48,
       "icon": {
         "source": "meta"
       }
@@ -153,7 +153,7 @@
     "com.HomeNetGames.Warplanes3VR": {
       "categoryId": "games",
       "displayName": null,
-      "order": 46,
+      "order": 47,
       "icon": {
         "source": "meta"
       }
@@ -169,7 +169,7 @@
     "com.ILMxLAB.VaderImmortal.ep2": {
       "categoryId": "games",
       "displayName": "Vader Immortal: Ep 2",
-      "order": 43,
+      "order": 44,
       "icon": {
         "source": "meta"
       }
@@ -177,7 +177,7 @@
     "com.ILMxLAB.VaderImmortal.ep3": {
       "categoryId": "games",
       "displayName": "Vader Immortal: Ep 3",
-      "order": 44,
+      "order": 45,
       "icon": {
         "source": "meta"
       }
@@ -185,7 +185,7 @@
     "com.Iconik.LittleNightmaresVR": {
       "categoryId": "games",
       "displayName": null,
-      "order": 57,
+      "order": 58,
       "icon": {
         "source": "meta"
       }
@@ -209,7 +209,7 @@
     "com.MightyEyes.Wanderer": {
       "categoryId": "games",
       "displayName": null,
-      "order": 60,
+      "order": 61,
       "icon": {
         "source": "meta"
       }
@@ -265,7 +265,7 @@
     "com.Patient8Games.Memoreum": {
       "categoryId": "games",
       "displayName": null,
-      "order": 58,
+      "order": 59,
       "icon": {
         "source": "meta"
       }
@@ -281,7 +281,7 @@
     "com.RaptorsGames.RaceForFun": {
       "categoryId": "games",
       "displayName": null,
-      "order": 40,
+      "order": 41,
       "icon": {
         "source": "meta"
       }
@@ -305,7 +305,7 @@
     "com.SloppyStudios.NewtonsPlayground": {
       "categoryId": "games",
       "displayName": null,
-      "order": 53,
+      "order": 54,
       "icon": {
         "source": "meta"
       }
@@ -337,7 +337,7 @@
     "com.StressLevelZero.BONELAB": {
       "categoryId": "games",
       "displayName": null,
-      "order": 52,
+      "order": 53,
       "icon": {
         "source": "meta"
       }
@@ -377,7 +377,7 @@
     "com.VerticalRobot.RedMatter2": {
       "categoryId": "games",
       "displayName": null,
-      "order": 59,
+      "order": 60,
       "icon": {
         "source": "meta"
       }
@@ -409,7 +409,7 @@
     "com.XRGames.ZombielandVR": {
       "categoryId": "games",
       "displayName": "Zombieland",
-      "order": 48,
+      "order": 49,
       "icon": {
         "source": "meta"
       }
@@ -521,7 +521,7 @@
     "com.fasttravelgames.solero": {
       "categoryId": "games",
       "displayName": null,
-      "order": 49,
+      "order": 50,
       "icon": {
         "source": "meta"
       }
@@ -601,7 +601,7 @@
     "com.kluge.SynthRiders": {
       "categoryId": "games",
       "displayName": null,
-      "order": 41,
+      "order": 42,
       "icon": {
         "source": "meta"
       }
@@ -769,7 +769,7 @@
     "com.onehamsa.underdogs": {
       "categoryId": "games",
       "displayName": null,
-      "order": 42,
+      "order": 43,
       "icon": {
         "source": "meta"
       }
@@ -881,7 +881,7 @@
     "com.schellgames.ieytd2": {
       "categoryId": "games",
       "displayName": null,
-      "order": 38,
+      "order": 39,
       "icon": {
         "source": "meta"
       }
@@ -889,7 +889,7 @@
     "com.schellgames.ieytd3": {
       "categoryId": "games",
       "displayName": null,
-      "order": 39,
+      "order": 40,
       "icon": {
         "source": "meta"
       }
@@ -900,6 +900,14 @@
       "order": 37,
       "icon": {
         "source": "meta"
+      }
+    },
+    "com.nv.schellgames.ieytdquest": {
+      "categoryId": "games",
+      "displayName": "I Expect You To Die",
+      "order": 38,
+      "icon": {
+        "source": "managed"
       }
     },
     "com.singerinteractive.pq": {
@@ -969,7 +977,7 @@
     "com.vertigogames.azs1hd": {
       "categoryId": "games",
       "displayName": "Arizona Sunshine Remake",
-      "order": 50,
+      "order": 51,
       "icon": {
         "source": "meta"
       }
@@ -977,7 +985,7 @@
     "com.vertigogames.azs2": {
       "categoryId": "games",
       "displayName": "Arizona Sunshine 2",
-      "order": 51,
+      "order": 52,
       "icon": {
         "source": "meta"
       }
