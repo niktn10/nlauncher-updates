@@ -4,5 +4,6 @@
   "versionName": "2026-10-28.1",
   "configUrl": "https://raw.githubusercontent.com/niktn10/nlauncher-updates/main/salon-config/SalonConfig.json",
   "sha256": "85b06cf117a31d3986a53673fc44f85fff19e4064a141c58c4948d74d0638c1a",
-  "size": 25114
+  "size": 25114,
+  "autoApply": true
 }
