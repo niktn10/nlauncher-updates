@@ -1,9 +1,9 @@
 {
-  "versionCode": 213,
+  "versionCode": 214,
   "versionName": "2.1",
-  "apkUrl": "https://github.com/niktn10/nlauncher-updates/releases/download/v2.1-213/nLauncher_2.1_213.apk",
-  "sha256": "4020250a8b5ec001a55a121b5b662b653f3a5d84dc0b918e1c3383dfe50d6a5a",
-  "size": 27780691,
+  "apkUrl": "https://github.com/niktn10/nlauncher-updates/releases/download/v2.1-214/nLauncher_2.1_214.apk",
+  "sha256": "8f8ae2860b252e97a85fc0e33e02708edca0cb7e21d0150a275c3137fb984a5d",
+  "size": 27817555,
   "required": false,
   "autoApply": true
 }
