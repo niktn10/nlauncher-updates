@@ -5,5 +5,5 @@
   "sha256": "b20dfd9295b3d16a8f223d05a7c47842e2689e2f120af60e4c52058b76385880",
   "size": 20100515,
   "required": false,
-  "autoApply": false
+  "autoApply": true
 }
