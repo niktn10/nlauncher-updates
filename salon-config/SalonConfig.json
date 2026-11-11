@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026111001,
-  "versionName": "2026-11-10.1",
-  "createdAt": "2026-11-10T17:24:57+01:00",
+  "configVersion": 2026111101,
+  "versionName": "2026-11-11.1",
+  "createdAt": "2026-11-11T16:09:40+01:00",
   "minimumLauncherVersionCode": 232,
   "defaultCategoryId": "first",
   "categories": [
@@ -304,7 +304,7 @@
     },
     "com.SloppyStudios.NewtonsPlayground": {
       "categoryId": "games",
-      "displayName": null,
+      "displayName": "Newton's Playground",
       "order": 55,
       "icon": {
         "source": "meta"
@@ -512,7 +512,7 @@
     },
     "com.fallen.manorquest": {
       "categoryId": "games",
-      "displayName": "Affected: The Manor",
+      "displayName": "Affected",
       "order": 31,
       "icon": {
         "source": "meta"
@@ -608,7 +608,7 @@
     },
     "com.manerai.taxiDriverVR": {
       "categoryId": "kids",
-      "displayName": "Taxi Driver",
+      "displayName": "Taxi Driver Vr",
       "order": 67,
       "icon": {
         "source": "meta"
