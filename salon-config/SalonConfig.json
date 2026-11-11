@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026111101,
-  "versionName": "2026-11-11.1",
-  "createdAt": "2026-11-11T16:09:40+01:00",
+  "configVersion": 2026111102,
+  "versionName": "2026-11-11.2",
+  "createdAt": "2026-11-11T16:10:56+01:00",
   "minimumLauncherVersionCode": 232,
   "defaultCategoryId": "first",
   "categories": [
@@ -608,7 +608,7 @@
     },
     "com.manerai.taxiDriverVR": {
       "categoryId": "kids",
-      "displayName": "Taxi Driver Vr",
+      "displayName": "Taxi Driver VR",
       "order": 67,
       "icon": {
         "source": "meta"
