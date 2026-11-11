@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026102801,
-  "versionName": "2026-10-28.1",
-  "createdAt": "2026-10-28T09:34:03.408516+01:00",
-  "minimumLauncherVersionCode": 190,
+  "configVersion": 2026111001,
+  "versionName": "2026-11-10.1",
+  "createdAt": "2026-11-10T17:24:57+01:00",
+  "minimumLauncherVersionCode": 232,
   "defaultCategoryId": "first",
   "categories": [
     {
@@ -571,14 +571,6 @@
       "displayName": "Fruit Ninja",
       "order": 9,
       "icon": {
-        "source": "meta"
-      }
-    },
-    "com.dev.halfbrick.fruitninjavr": {
-      "categoryId": "first",
-      "displayName": "Fruit Ninja",
-      "order": 10,
-      "icon": {
         "source": "managed"
       }
     },
@@ -779,14 +771,6 @@
       "displayName": "Job Simulator",
       "order": 1,
       "icon": {
-        "source": "meta"
-      }
-    },
-    "com.dev.owlchemylabs.jobsimulator": {
-      "categoryId": "kids",
-      "displayName": "Job Simulator",
-      "order": 2,
-      "icon": {
         "source": "managed"
       }
     },
@@ -896,18 +880,10 @@
     },
     "com.schellgames.ieytdquest": {
       "categoryId": "games",
-      "displayName": null,
+      "displayName": "I Expect You To Die",
       "order": 38,
       "icon": {
         "source": "meta"
-      }
-    },
-    "com.nv.schellgames.ieytdquest": {
-      "categoryId": "games",
-      "displayName": "I Expect You To Die",
-      "order": 39,
-      "icon": {
-        "source": "managed"
       }
     },
     "com.singerinteractive.pq": {
@@ -1148,14 +1124,6 @@
       "order": 96,
       "icon": {
         "source": "meta"
-      }
-    },
-    "com.nv.cloudheadgames.pistolwhip": {
-      "categoryId": "games",
-      "displayName": "Pistol Whip",
-      "order": 4,
-      "icon": {
-        "source": "managed"
       }
     }
   },
