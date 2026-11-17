@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "configVersion": 2026111102,
-  "versionName": "2026-11-11.2",
-  "createdAt": "2026-11-11T16:10:56+01:00",
-  "minimumLauncherVersionCode": 232,
+  "configVersion": 2026111701,
+  "versionName": "2026-11-17.1",
+  "createdAt": "2026-11-17T12:10:50+01:00",
+  "minimumLauncherVersionCode": 241,
   "defaultCategoryId": "first",
   "categories": [
     {
@@ -43,7 +43,7 @@
       "displayName": "Gorilla Tag",
       "order": 73,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.Appnori.AllInOneSports": {
@@ -51,7 +51,7 @@
       "displayName": "All In One Sports",
       "order": 5,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.ArcticWolves.RollercoasterLegends": {
@@ -59,7 +59,7 @@
       "displayName": "RollerCoasterLegends",
       "order": 69,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.AstroFoxStudios.OctoKid": {
@@ -67,7 +67,7 @@
       "displayName": null,
       "order": 23,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.ContinuumXR.UG": {
@@ -75,7 +75,7 @@
       "displayName": "UG (Gorilla Tag)",
       "order": 6,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.CortopiaStudios.Graves": {
@@ -83,7 +83,7 @@
       "displayName": null,
       "order": 37,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.CortopiaStudios.draxPrototype": {
@@ -91,7 +91,7 @@
       "displayName": "Teenage Mutant Ninja",
       "order": 19,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.CreativityAR.FixerUndercover": {
@@ -99,7 +99,7 @@
       "displayName": null,
       "order": 57,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.Doborog.CloneDroneVR": {
@@ -107,7 +107,7 @@
       "displayName": null,
       "order": 56,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.FireproofStudios.GhostTown": {
@@ -115,7 +115,7 @@
       "displayName": null,
       "order": 58,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.ForwardXP.nuke": {
@@ -123,7 +123,7 @@
       "displayName": null,
       "order": 71,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.GameDigitsLtd.WalkThePlankVR": {
@@ -131,7 +131,7 @@
       "displayName": null,
       "order": 15,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.HomeNetGames.WW1oculus": {
@@ -139,7 +139,7 @@
       "displayName": "Warplanes: WW1",
       "order": 47,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.HomeNetGames.WW2VR": {
@@ -147,7 +147,7 @@
       "displayName": null,
       "order": 49,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.HomeNetGames.Warplanes3VR": {
@@ -155,7 +155,7 @@
       "displayName": null,
       "order": 48,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.ILMxLAB.VaderImmortal.ep1": {
@@ -163,7 +163,7 @@
       "displayName": "Vader Immortal",
       "order": 6,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.ILMxLAB.VaderImmortal.ep2": {
@@ -171,7 +171,7 @@
       "displayName": "Vader Immortal: Ep 2",
       "order": 45,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.ILMxLAB.VaderImmortal.ep3": {
@@ -179,7 +179,7 @@
       "displayName": "Vader Immortal: Ep 3",
       "order": 46,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.Iconik.LittleNightmaresVR": {
@@ -187,7 +187,7 @@
       "displayName": null,
       "order": 59,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.JustDrive.JustDrive": {
@@ -195,7 +195,7 @@
       "displayName": "Just Drive",
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.LocoMotionDevs.Superfly": {
@@ -203,7 +203,7 @@
       "displayName": "Superfly",
       "order": 68,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.MightyEyes.Wanderer": {
@@ -211,7 +211,7 @@
       "displayName": null,
       "order": 62,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.NewFolderGames.IAmBird": {
@@ -219,7 +219,7 @@
       "displayName": null,
       "order": 63,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.NewFolderGames.IAmCat": {
@@ -227,7 +227,7 @@
       "displayName": "I Am Cat",
       "order": 64,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.NewFolderGames.IAmMonkey": {
@@ -235,7 +235,7 @@
       "displayName": null,
       "order": 65,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.Oculus.FirstContact": {
@@ -243,7 +243,7 @@
       "displayName": "First Contact",
       "order": 2,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.Oisoi.PaintingVr": {
@@ -251,7 +251,7 @@
       "displayName": "Painting VR",
       "order": 13,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.OwlchemyLabs.CosmoniousHigh": {
@@ -259,7 +259,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.Patient8Games.Memoreum": {
@@ -267,7 +267,7 @@
       "displayName": null,
       "order": 60,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.PubTest.PubTest": {
@@ -275,7 +275,7 @@
       "displayName": null,
       "order": 34,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.RaptorsGames.RaceForFun": {
@@ -283,7 +283,7 @@
       "displayName": null,
       "order": 42,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.RuneSkovboJohansen.EyeOfTheTemple": {
@@ -291,7 +291,7 @@
       "displayName": "Eye of the Temple",
       "order": 7,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.SeeReal.EscapeNought": {
@@ -299,7 +299,7 @@
       "displayName": null,
       "order": 22,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.SloppyStudios.NewtonsPlayground": {
@@ -307,7 +307,7 @@
       "displayName": "Newton's Playground",
       "order": 55,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.Specoolar.LucentVR": {
@@ -315,7 +315,7 @@
       "displayName": "Lucent VR",
       "order": 14,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.SteelWool.HelpWanted2": {
@@ -323,7 +323,7 @@
       "displayName": "FNaF: Help Wanted 2",
       "order": 62,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.SteelWoolGames.fnafhw": {
@@ -331,7 +331,7 @@
       "displayName": "FNaF: Help Wanted",
       "order": 61,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.StressLevelZero.BONELAB": {
@@ -339,7 +339,7 @@
       "displayName": null,
       "order": 54,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.TRC.Atlas": {
@@ -347,7 +347,7 @@
       "displayName": "The Atlas Mystery",
       "order": 20,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.TacticalNounours.QuantumVoid": {
@@ -355,7 +355,7 @@
       "displayName": null,
       "order": 27,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.ThreeDAR.PaperBirdsQuest": {
@@ -363,7 +363,7 @@
       "displayName": null,
       "order": 26,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.ToastVR.RichiesPlankExperience": {
@@ -379,7 +379,7 @@
       "displayName": null,
       "order": 61,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.Warpfrog.BladeAndSorcery": {
@@ -387,7 +387,7 @@
       "displayName": "Blade & Sorcery",
       "order": 35,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.WenklyStudio.ElvenAssassin": {
@@ -411,7 +411,7 @@
       "displayName": "Zombieland",
       "order": 50,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.XrealGames.Zc15": {
@@ -419,7 +419,7 @@
       "displayName": null,
       "order": 79,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.XrealGames.ZcReloaded": {
@@ -427,7 +427,7 @@
       "displayName": "Zero Caliber",
       "order": 78,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.anagan.qgo": {
@@ -435,7 +435,7 @@
       "displayName": null,
       "order": 28,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.bazookastudio.chainedescape": {
@@ -443,7 +443,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.beatgames.beatpaber": {
@@ -451,7 +451,7 @@
       "displayName": "Beat Saber",
       "order": 1,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.beatgames.beatsaber": {
@@ -459,7 +459,7 @@
       "displayName": "Beat Saber",
       "order": 1,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.cloudheadgames.pistolwhip": {
@@ -467,7 +467,7 @@
       "displayName": "Pistol Whip",
       "order": 3,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.crytek.climb2": {
@@ -475,7 +475,7 @@
       "displayName": "The Climb 2",
       "order": 8,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.dreamdev.deathhorizon.quest": {
@@ -483,7 +483,7 @@
       "displayName": "Death Horizon",
       "order": 6,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.epicgames.FPS": {
@@ -491,7 +491,7 @@
       "displayName": null,
       "order": 17,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.facebook.arvr.quillplayer": {
@@ -499,7 +499,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.facebook.orca": {
@@ -507,7 +507,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.fallen.manorquest": {
@@ -515,7 +515,7 @@
       "displayName": "Affected",
       "order": 31,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.fasttravelgames.solero": {
@@ -523,7 +523,7 @@
       "displayName": null,
       "order": 51,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.forcefieldxr.coastercombatquest": {
@@ -531,7 +531,7 @@
       "displayName": "Coaster Combat",
       "order": 19,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.forwardxp.PDTAMR": {
@@ -539,7 +539,7 @@
       "displayName": "Please, Don't Touch Anything: House Broken",
       "order": 72,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.freelives.gorn": {
@@ -547,7 +547,7 @@
       "displayName": null,
       "order": 36,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.google.android.apps.youtube.vr.oculus": {
@@ -563,7 +563,7 @@
       "displayName": null,
       "order": 84,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.halfbrick.fruitninjavr": {
@@ -579,7 +579,7 @@
       "displayName": null,
       "order": 10,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.holonautic.HandPhysicsLab": {
@@ -587,7 +587,7 @@
       "displayName": null,
       "order": 11,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.kluge.SynthRiders": {
@@ -595,7 +595,7 @@
       "displayName": null,
       "order": 43,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.makereal.LocoDojoQuest": {
@@ -603,7 +603,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.manerai.taxiDriverVR": {
@@ -611,7 +611,7 @@
       "displayName": "Taxi Driver VR",
       "order": 67,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.meta.curio.ruler": {
@@ -619,7 +619,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.meta.curio.toybox": {
@@ -627,7 +627,7 @@
       "displayName": "First Encounters",
       "order": 4,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.meta.handseducationmodule": {
@@ -635,7 +635,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.mikorigames.firstpersontennis": {
@@ -643,7 +643,7 @@
       "displayName": "First Person Tennis",
       "order": 86,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.mydearest.chainedescape": {
@@ -651,7 +651,7 @@
       "displayName": null,
       "order": 75,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.MiramarSetupRetail": {
@@ -667,7 +667,7 @@
       "displayName": "First Steps",
       "order": 1,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.accountscenter": {
@@ -675,7 +675,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.assistant": {
@@ -683,7 +683,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.dab2": {
@@ -691,7 +691,7 @@
       "displayName": null,
       "order": 76,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.explore": {
@@ -699,7 +699,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.extrapermissions": {
@@ -707,7 +707,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.facebook": {
@@ -715,7 +715,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.helpcenter": {
@@ -723,7 +723,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.igvr": {
@@ -731,7 +731,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.mobile_mrc_setup": {
@@ -739,7 +739,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.systemactivities": {
@@ -747,7 +747,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.oculus.vrprivacycheckup": {
@@ -755,7 +755,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.onehamsa.underdogs": {
@@ -763,7 +763,7 @@
       "displayName": null,
       "order": 44,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.owlchemylabs.jobsimulator": {
@@ -779,7 +779,7 @@
       "displayName": "Vacation Simulator",
       "order": 74,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.owlstudiogetme.FreddyVR": {
@@ -787,7 +787,7 @@
       "displayName": "Freddy VR",
       "order": 75,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.parkline.wander": {
@@ -795,7 +795,7 @@
       "displayName": "Wander",
       "order": 5,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.playful.LuckysTale": {
@@ -803,7 +803,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.resolutiongames.abvriop.santacruz": {
@@ -811,7 +811,7 @@
       "displayName": "Angry Birds",
       "order": 8,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.resolutiongames.demeo": {
@@ -819,7 +819,7 @@
       "displayName": null,
       "order": 80,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.resolutiongames.demeopvp": {
@@ -827,7 +827,7 @@
       "displayName": null,
       "order": 81,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.resolutiongames.ignis": {
@@ -835,7 +835,7 @@
       "displayName": "Blaston",
       "order": 4,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.resolutiongames.jade": {
@@ -843,7 +843,7 @@
       "displayName": "Demeo x D&D: Battlemarked",
       "order": 82,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.resolutiongames.trolin": {
@@ -851,7 +851,7 @@
       "displayName": null,
       "order": 16,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.roblox.client": {
@@ -859,7 +859,7 @@
       "displayName": "Roblox",
       "order": 70,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.schellgames.ieytd2": {
@@ -867,7 +867,7 @@
       "displayName": null,
       "order": 40,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.schellgames.ieytd3": {
@@ -875,7 +875,7 @@
       "displayName": null,
       "order": 41,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.schellgames.ieytdquest": {
@@ -883,7 +883,7 @@
       "displayName": "I Expect You To Die",
       "order": 38,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.singerinteractive.pq": {
@@ -891,7 +891,7 @@
       "displayName": "The Pirate Queen",
       "order": 21,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.smtrandom.toytrain": {
@@ -899,7 +899,7 @@
       "displayName": null,
       "order": 12,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.sumalab.CrisisBrigade2reloaded": {
@@ -907,7 +907,7 @@
       "displayName": "Crisis Brigade 2",
       "order": 3,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.survios.Creed": {
@@ -915,7 +915,7 @@
       "displayName": "Creed",
       "order": 2,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.thebinarymill.intoblack": {
@@ -923,7 +923,7 @@
       "displayName": null,
       "order": 83,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.themunky.drunknbarfightQuest": {
@@ -931,7 +931,7 @@
       "displayName": null,
       "order": 33,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.thunderful.legobricktales": {
@@ -939,7 +939,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.valvesoftware.steamlinkvr": {
@@ -947,7 +947,7 @@
       "displayName": "Steam Link",
       "order": 29,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.vertigogames.azs1hd": {
@@ -955,7 +955,7 @@
       "displayName": "Arizona Sunshine Remake",
       "order": 52,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.vertigogames.azs2": {
@@ -963,7 +963,7 @@
       "displayName": "Arizona Sunshine 2",
       "order": 53,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.vertigogames.azsq": {
@@ -971,7 +971,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.vr.puzzle.horror.survival.escape": {
@@ -979,7 +979,7 @@
       "displayName": "Five Nights: No Escape",
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.vrchat.oculus.quest": {
@@ -987,7 +987,7 @@
       "displayName": "VRChat",
       "order": 77,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.whatsapp": {
@@ -995,7 +995,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "games.b4t.epicrollercoasters.oculus": {
@@ -1003,7 +1003,7 @@
       "displayName": "Epic Roller Coasters",
       "order": 7,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "games.hypervr.hairandbeauty": {
@@ -1011,7 +1011,7 @@
       "displayName": "Shave & Stuff",
       "order": 5,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "games.hypervr.petsnstuff": {
@@ -1019,7 +1019,7 @@
       "displayName": "Pets & Stuff",
       "order": 4,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "gg.trs.fyf2": {
@@ -1027,7 +1027,7 @@
       "displayName": null,
       "order": 32,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "mr.com.Oisoi.PaintingVr": {
@@ -1035,7 +1035,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "mr.com.dreamdev.deathhorizon.quest": {
@@ -1043,7 +1043,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "mr.com.forwardxp.PDTAMR": {
@@ -1051,7 +1051,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "mr.com.ivanovichgames.motionsoccer": {
@@ -1059,7 +1059,7 @@
       "displayName": null,
       "order": 24,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "mr.com.resolutiongames.abvriop.santacruz": {
@@ -1067,7 +1067,7 @@
       "displayName": null,
       "order": null,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "quest.eleven.forfunlabs": {
@@ -1075,7 +1075,7 @@
       "displayName": null,
       "order": 85,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "studio.NewFolderGames.IAmSecurity": {
@@ -1083,7 +1083,7 @@
       "displayName": "I Am Security",
       "order": 66,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "studio.NewFolderGames.TitansClinic": {
@@ -1091,7 +1091,7 @@
       "displayName": "Titans Clinic",
       "order": 3,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "unity.SUPERHOT_Team.SUPERHOT_VR_QA": {
@@ -1099,7 +1099,7 @@
       "displayName": "Superhot VR",
       "order": 5,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.MightyCoconut.WalkaboutMiniGolf": {
@@ -1107,7 +1107,7 @@
       "displayName": null,
       "order": 97,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "com.TellurionMobile.RealmCraft": {
@@ -1115,7 +1115,7 @@
       "displayName": null,
       "order": 88,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     },
     "quest.side.vr": {
@@ -1123,7 +1123,7 @@
       "displayName": null,
       "order": 96,
       "icon": {
-        "source": "meta"
+        "source": "managed"
       }
     }
   },
